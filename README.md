@@ -14,3 +14,4 @@
 1. Clean code - Robert C. Martin [Kindle]
 2. Clean coder - Robert C. Martin [Kindle]
 3. Code complete - Steve McConnell [To buy]
+4. Coders at work - Peter Seibel [To buy]
